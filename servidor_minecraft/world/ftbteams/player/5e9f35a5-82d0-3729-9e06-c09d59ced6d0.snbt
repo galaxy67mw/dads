@@ -1,0 +1,17 @@
+{
+	id: "5e9f35a5-82d0-3729-9e06-c09d59ced6d0"
+	type: "player"
+	player_name: "kenro06"
+	ranks: {
+		5e9f35a5-82d0-3729-9e06-c09d59ced6d0: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "kenro06"
+		"ftbteams:description": ""
+		"ftbteams:color": "#91FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

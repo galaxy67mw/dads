@@ -1,0 +1,33 @@
+[00:00:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12279ms or 245 ticks behind
+[00:00:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17246ms or 344 ticks behind
+[00:00:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11333ms or 226 ticks behind
+[00:01:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14789ms or 295 ticks behind
+[00:01:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14039ms or 280 ticks behind
+[00:02:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12672ms or 253 ticks behind
+[00:02:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12717ms or 254 ticks behind
+[00:02:59] [Server thread/INFO]: Pancito_KawaiiG has made the advancement [Cover Me In Emeralds]
+[00:03:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12373ms or 247 ticks behind
+[00:03:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12229ms or 244 ticks behind
+[00:04:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13410ms or 268 ticks behind
+[00:04:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15736ms or 314 ticks behind
+[00:05:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15273ms or 305 ticks behind
+[00:05:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14739ms or 294 ticks behind
+[00:06:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17005ms or 340 ticks behind
+[00:06:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14898ms or 297 ticks behind
+[00:07:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12615ms or 252 ticks behind
+[00:07:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12635ms or 252 ticks behind
+[00:08:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11653ms or 233 ticks behind
+[00:08:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12924ms or 258 ticks behind
+[00:09:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14361ms or 287 ticks behind
+[00:09:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15528ms or 310 ticks behind
+[00:09:49] [Server thread/INFO]: Stopping the server
+[00:09:49] [Server thread/INFO]: Invalidated damage temperature effect registry cache
+[00:09:49] [Server thread/INFO]: Resetting environment controller...
+[00:09:49] [Server thread/INFO]: Stopping server
+[00:09:49] [Server thread/INFO]: Saving players
+[00:09:49] [Server thread/INFO]: Pancito_KawaiiG lost connection: Server closed
+[00:09:49] [Server thread/INFO]: Pancito_KawaiiG left the game
+[00:09:49] [Server thread/INFO]: remove player wand
+[00:09:49] [Server thread/INFO]: Updating all forceload tickets for dd0c9ee7-09db-3026-99f3-011946b01c57
+[00:09:49] [Server thread/INFO]: Saving worlds
+[00:09:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
