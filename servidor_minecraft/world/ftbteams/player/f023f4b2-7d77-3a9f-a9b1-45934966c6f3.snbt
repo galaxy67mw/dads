@@ -1,0 +1,17 @@
+{
+	id: "f023f4b2-7d77-3a9f-a9b1-45934966c6f3"
+	type: "player"
+	player_name: "Mango"
+	ranks: {
+		f023f4b2-7d77-3a9f-a9b1-45934966c6f3: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Mango"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5D59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
